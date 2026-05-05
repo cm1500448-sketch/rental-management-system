@@ -1,0 +1,12 @@
+node_modules/
+server/uploads/*
+!server/uploads/.gitkeep
+server/.env
+client/.env
+*.log
+dist/
+.DS_Store
+.vs/
+server/.kiro/
+server/PROJECTS/
+.kiro/
